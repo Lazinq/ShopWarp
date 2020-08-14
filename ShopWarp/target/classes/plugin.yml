@@ -1,0 +1,19 @@
+name: ShopWarp
+version: 1.0
+api-version: 1.16
+author: Lazinq
+main: me.Lazinq.ShopWarp.ShopWarp
+
+commands:
+  setshop:
+  setloja:
+  removeshop:
+  removeloja:
+  shop:
+  loja:
+  shopreload:
+  lojareload:
+  shops:
+  lojas:
+  shophelp:
+  lojahelp:

@@ -1,0 +1,34 @@
+# Plugin made by Lazinq
+
+permission:
+  setshop: 'set.shop'
+  removeshop: 'remove.shop'
+  warpshop: 'warp.shop'
+  reloadshop: 'reload.shop'
+
+message:
+  setshop:
+    - '&6&lShop is created!'
+    - '&6&lNice work!'
+  removeshop:
+    - '&6&lShop is removed!'
+    - '&6&lNice work!'
+# Custom Placeholder $Player for the name of the owner of the shop
+  warpshop:
+    - '&6&lYou warped to the shop of $Player!'
+    - '&6&lNice work!'
+  invalidshop:
+    - '&6&lPlayer does not have a shop!'
+    - '&6&lNice work!'
+# Custom Placeholder $Players to list all players.
+  shops:
+    - '&6&lShops: &f&l$Players'
+    - '&6&lNice work!'
+  reload:
+    - '&6&lReloaded the plugin!'
+    - '&6&lNice work!'
+  shophelp:
+    - 'add some words here'
+    - 'ok?'
+#
+Data:
